@@ -7,7 +7,7 @@ class EmbedCommand extends commando.Command {
         super(client, {
             name: 'author',
             group: 'fancy',
-            memberName: 'Author',
+            memberName: 'author',
             description: 'With this command you can see our Author\'s Info!',
         });
     }
