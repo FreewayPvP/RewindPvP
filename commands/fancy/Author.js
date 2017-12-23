@@ -31,11 +31,7 @@ async run(message, args) {
       .addField("Server Owner:",
         "@FreewayPvP#6468")
         .addField("Discord:",
-        "Come and Join The Author's Server!",
-        "We Always Have FUN.. FUN... FUNNNN",
-        "If You Advertise or Spam in that Server",
-        "You Will Automaticlly Be PERM banned!",
-        "https://discord.gg/AxGBRt5")
+        "Come and Join The Author's Server!\nWe Always Have FUN.. FUN... FUNNNN\nIf You Advertise or Spam in that Server\nYou Will Automaticlly Be PERM banned!\nhttps://discord.gg/AxGBRt5")
 
 
     
