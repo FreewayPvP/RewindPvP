@@ -5,10 +5,10 @@ const embed = new Discord.RichEmbed()
 class EmbedCommand extends commando.Command {
     constructor(client) {
         super(client, {
-            name: 'info',
+            name: 'author',
             group: 'fancy',
-            memberName: 'info',
-            description: 'With this command you can see our Server Info!',
+            memberName: 'Author',
+            description: 'With this command you can see our Author\'s Info!',
         });
     }
 
