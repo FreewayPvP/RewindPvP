@@ -13,6 +13,7 @@ class EmbedCommand extends commando.Command {
     }
 
 async run(message, args) {
+    message.delete('1')
     const embed = new Discord.RichEmbed()
     
     .setTitle(">> Server Site <<") 
