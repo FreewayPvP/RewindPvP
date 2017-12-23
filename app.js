@@ -18,6 +18,48 @@ client.on("ready", () => {
     client.user.setGame(`with @FreewayPvP#6468`, 'https://www.twitch.tv/thomaspvp5');
 });
 
+client.on('message', message => {
+  if (message.content === "https://wwww"){
+      message.delete('1');
+  }
+});
+
+client.on('message', message => {
+  if (message.content === "wwww."){
+      message.delete('1');
+  }
+});
+
+client.on('message', message => {
+  if (message.content === ".com"){
+      message.delete('1');
+  }
+});
+
+client.on('message', message => {
+  if (message.content === ".net"){
+      message.delete('1');
+  }
+});
+
+client.on('message', message => {
+  if (message.content === ".org"){
+      message.delete('1');
+  }
+});
+
+client.on('message', message => {
+  if (message.content === ".nl"){
+      message.delete('1');
+  }
+});
+
+client.on('message', message => {
+  if (message.content === ".eu"){
+      message.delete('1');
+  }
+});
+
 const path = require('path');
 
 client.registry
