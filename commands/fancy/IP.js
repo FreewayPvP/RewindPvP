@@ -33,6 +33,8 @@ async run(message, args) {
         "play.NoServerIPYet.com")
         .addField("Discord Invite Link:",
         "https://discord.gg/nJ4B4uf")
+        .addField("Server Release Date:",
+        "26th December 12:00 GMT")
 
 
     
