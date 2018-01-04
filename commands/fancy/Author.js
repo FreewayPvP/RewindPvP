@@ -29,7 +29,7 @@ async run(message, args) {
     
       .setURL("https://discord.gg/AxGBRt5")
       .addField("Server Owner:",
-        "@FreewayPvP#6468")
+        "ℱคภςץ | Savage#6468")
         .addField("Discord:",
         "Come and Join The Author's Server!\nWe Always Have FUN.. FUN... FUNNNN\nIf You Advertise or Spam in that Server\nYou Will Automaticlly Be PERM banned!\nhttps://discord.gg/AxGBRt5")
 
